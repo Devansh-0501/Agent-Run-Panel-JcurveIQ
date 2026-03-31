@@ -1,6 +1,6 @@
 # Agent Run Panel
 
-React + Vite frontend that simulates a real-time multi-agent workflow run with task orchestration, parallel steps, retries, cancellations, thoughts, and final synthesis output.
+React + Vite frontend that simulates a real-time multi-agent workflow run with task orchestration, parallel steps, retries, cancellations, thoughts, and final synthesis output. Used Cursor IDE as AI agent.
 
 ## How to run
 
